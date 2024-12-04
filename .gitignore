@@ -1,0 +1,8 @@
+# Ignorar todos los archivos
+*
+
+# No ignorar el archivo específico
+!Assets
+!Assets/mover_pelota.cs
+!.gitignore
+!README.md
